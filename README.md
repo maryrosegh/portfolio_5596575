@@ -4,7 +4,8 @@
 # mary.rose.alghanem@mnd.thm.de 
 
 
-Willkommen im Portfolio von Mary Rose Alghanem
+Willkommen im Portfolio von Mary Rose Alghanem.
+
 Das ist meine erstes Flutter Projekt. Ich habe ein Projekt mit AppBar gemacht. Die Startseite heißt "home_page.dart".
 
 ## Getting Started

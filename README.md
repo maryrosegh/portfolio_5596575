@@ -1,7 +1,7 @@
 # portfolio_5596575
 # Mary Rose Alghanem 
 # maryroseghanen22@gmail.com 
-# mary.rose.alghanem@mnd.thm.de 
+# email: mary.rose.alghanem@mnd.thm.de 
 
 
 Willkommen im Portfolio von Mary Rose Alghanem.

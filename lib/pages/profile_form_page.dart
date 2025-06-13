@@ -10,9 +10,9 @@ class ProfileFormPage extends StatefulWidget {
 class _ProfileFormPageState extends State<ProfileFormPage> {
   final _formKey = GlobalKey<FormState>();
 
-  final TextEditingController _nameController = TextEditingController(text: "Mary Rose");
-  final TextEditingController _emailController = TextEditingController(text: "maryroseghanen22@gmail.com");
-  final TextEditingController _aboutController = TextEditingController(text: "Ich bin eine Studentinen an der THM");
+  final TextEditingController _nameController = TextEditingController(text: "");
+  final TextEditingController _emailController = TextEditingController(text: "");
+  final TextEditingController _aboutController = TextEditingController(text: "");
 
   void _submitForm() {
     if (_formKey.currentState!.validate()) {
